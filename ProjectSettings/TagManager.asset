@@ -3,10 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Foods
-  - Head
-  - Tails
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -41,18 +38,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: UI
-    uniqueID: 185465549
-    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: field
-    uniqueID: 3567128151
-    locked: 0
-  - name: player
-    uniqueID: 1764584089
-    locked: 0
-  - name: item
-    uniqueID: 803581193
     locked: 0
